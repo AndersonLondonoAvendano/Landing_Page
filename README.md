@@ -34,15 +34,3 @@ npm run dev
 ```
 
 4. Open your browser at `http://localhost:4321` to see the page in action.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-If you have any questions or suggestions, please open an issue in the repository.
