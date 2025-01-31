@@ -1,48 +1,48 @@
-# Astro Starter Kit: Basics
+# SecurePass - Landing Page
 
-```sh
-npm create astro@latest -- --template basics
+This is a **landing page** created with Astro and Tailwind CSS, designed to raise awareness about the importance of password security and online personal data protection. The page provides clear information and useful resources to help users protect their accounts and navigate safely.
+
+## Technical Features
+
+* **Astro**: Used to build a fast and optimized static page, leveraging its focus on reducing client-side JavaScript.
+* **Tailwind CSS**: Utility-first CSS framework for responsive and modern design, with customizable and easy-to-maintain styles.
+* **Reusable Components**: The page is structured in modular components to facilitate scalability and maintenance.
+* **Responsive Design**: Optimized to display and function correctly on mobile devices, tablets, and desktop.
+
+## Page Structure
+
+1. **Hero Section**: Attractive introduction with a clear message about password security.
+2. **Features Section**: Showcases key platform features, such as secure password creation and two-factor authentication usage.
+3. **About Section**: Information about SecurePass's mission and values.
+4. **Footer**: Useful links, social media, and newsletter subscription form.
+
+## How to Run the Project
+
+1. Clone the repository:
+```bash
+git clone https://github.com/tu-usuario/securepass-landing.git
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+2. Install dependencies:
+```bash
+npm install
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+3. Start the development server:
+```bash
+npm run dev
+```
 
-## 🧞 Commands
+4. Open your browser at `http://localhost:4321` to see the page in action.
 
-All commands are run from the root of the project, from a terminal:
+## Contributing
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 👀 Want to learn more?
+## License
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+If you have any questions or suggestions, please open an issue in the repository.
