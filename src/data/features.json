@@ -1,0 +1,32 @@
+[
+    {
+        "title": "End-to-End Encryption",
+        "description": "Your sensitive data is encrypted during transmission and storage, making it unreadable to unauthorized users.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeQMO5mkC1swbYuo-wOhFPbSdXpquTC-VEkg&s"
+    },
+    {
+        "title": "Two-Factor Authentication",
+        "description": "Add an extra layer of security by requiring a second verification step beyond your password.",
+        "image": "https://www.xcitium.com/images/multi-factor-authentication-mfa.png"
+    },
+    {
+        "title": "Password Manager",
+        "description": "Safely store and generate unique, complex passwords for all your accounts in one secure vault.",
+        "image": "https://blog.1password.com/articles/are-password-managers-safe/header.svg"
+    },
+    {
+        "title": "Cross-Platform Security",
+        "description": "Access your protected data securely across all your devices with synchronized security features.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc90p4IVEBxizI_qbPf5ac5-DPGXZPb5_CCw&s"
+    },
+    {
+        "title": "Breach Monitoring",
+        "description": "Get instant alerts if your accounts are compromised in data breaches or security incidents.",
+        "image": "https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/667db8926300645ca35cdf09_66671581169a24ed2ccde69c_Vigilant-or-Vulnerable_-why-you-need-a-Breach-Monitoring-solution.webp"
+    },
+    {
+        "title": "Privacy Controls",
+        "description": "Take control of your digital footprint with customizable privacy settings and data sharing options.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM4GZysuwZn0PM3B6dCJcwr7mL5xRG3FTCyw&s"
+    }
+]

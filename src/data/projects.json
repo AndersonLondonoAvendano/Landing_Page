@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Secure Password Manager",
+        "description": "Develop an application that securely stores passwords using AES-256 encryption. The app will generate strong passwords and store credentials safely in a vault protected by multi-factor authentication.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAq4uZzMEiNWC8stYBPGxuaGowfBxZPJ8oq_tXLuqetaHdoAKjxwrmP73tpeK1itnwhk&usqp=CAU"
+    },
+    {
+        "title": "Multi-Factor Authentication (MFA)",
+        "description": "Implement a two-factor authentication (2FA) system to enhance login security. Users will verify their identity using a code sent via email, SMS, or an authentication app.",
+        "image": "https://www.xcitium.com/images/multi-factor-authentication-mfa.png"
+    },
+    {
+        "title": "Password Strength Checker",
+        "description": "Create a tool that analyzes password strength using entropy calculations and common password databases. It will provide real-time feedback on how to improve security.",
+        "image": "https://www.jqueryscript.net/images/jQuery-Plugin-For-Password-Strength-Checker-and-Indicator-Password-Strength.jpg"
+    },
+    {
+        "title": "Biometric Authentication System",
+        "description": "Develop a biometric authentication system using fingerprint or facial recognition technology. This project will help replace traditional passwords with more secure authentication methods.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqQRaoxrdGJ1GSkMx-7UP_6ukwQgKGaLplmw&s"
+    },
+    {
+        "title": "Encrypted Password Sharing Platform",
+        "description": "Build a secure platform for sharing encrypted passwords among trusted users. It will use end-to-end encryption to ensure that only authorized users can access shared credentials.",
+        "image": "https://user-images.githubusercontent.com/54086948/109071702-adb0bb00-76b9-11eb-8e32-c799e0ed89a1.jpeg"
+    }
+]
